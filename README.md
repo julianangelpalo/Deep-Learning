@@ -1,2 +1,2 @@
 # Deep-Learning
-Deep Learning proyects using TensorFLow / Keras 
+En esta carpeta se encuentran trabajos personales utilizando Tensorflow/Keras mediante Google Colab
